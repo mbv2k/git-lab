@@ -90,6 +90,11 @@ Answer 10: It is not reflected.
 
 Answer 11: Changes were rejected after after the push command
 
-Answer 12: .  ..  git-lab-2  Labs
+Answer 12: Changes were made and reflected the online to my local copy
+
+Answer 13: .  ..  git-lab-2  Labs
+
+
+
 
 
