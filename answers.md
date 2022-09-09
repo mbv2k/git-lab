@@ -90,5 +90,6 @@ Answer 10: It is not reflected.
 
 Answer 11: Changes were rejected after after the push command
 
-Answer 12: 
+Answer 12: .  ..  git-lab-2  Labs
+
 
